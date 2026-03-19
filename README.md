@@ -1,4 +1,4 @@
-E-COMMERCE SALES AND ENGAGEMENT DASHBOARD
+# E-COMMERCE SALES AND ENGAGEMENT DASHBOARD
 
 This project presents a three-page dashboard analyzing business performance, revenue trends, and customer behavior.
 
@@ -7,13 +7,13 @@ This project presents a three-page dashboard analyzing business performance, rev
 - Power BI
 
 ## Dashboard Structure
-1. Revenue Overview
+### 1. Revenue Overview
 Analysis of total revenue, trends, and key performance indicators.
 
-2. Customer Behavior Insights
+### 2. Customer Behavior Insights
 Exploration of customer activity and usage patterns.
 
-3. Performance Breakdown
+### 3. Performance Breakdown
 Detailed view of business performance across different segments.
 
 
